@@ -1,8 +1,12 @@
 # 谷俊民个人简历
 
+手机: 
+
+学历：湖南科技大学2018届计算机本科
+
 微信: SPxiaomin-boy
 
-邮箱: gujunmin84@gmai.com
+邮箱: gujunmin84@gmail.com
 
 github: https://github.com/SPxiaomin
 

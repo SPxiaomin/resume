@@ -1,8 +1,12 @@
 # Junmin Gu's Resume
 
+phone: 
+
+education：湖南科技大学2018届计算机本科
+
 wechat: SPxiaomin-boy
 
-email: gujunmin84@gmai.com
+email: gujunmin84@gmail.com
 
 github: https://github.com/SPxiaomin
 
