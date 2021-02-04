@@ -2,7 +2,7 @@
 
 phone: 
 
-education：湖南科技大学2018届计算机本科
+education：Hunan University of Science and Technology, Computer Science Information Scecurity, 2018-6 graduated
 
 wechat: SPxiaomin-boy
 
@@ -14,7 +14,11 @@ github: https://github.com/SPxiaomin
 
 My name's Junmin Gu.
 
-I have worked for over three years「eleme + bytedance」.
+I have worked for over three years。
+
+2017/12-2019/4, eleme.
+
+2019/4-now, bytedance.
 
 I'm good at problem solving and quite self-motivated.
 
