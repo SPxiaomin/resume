@@ -14,7 +14,7 @@ github: https://github.com/SPxiaomin
 
 My name's Junmin Gu.
 
-I have worked for over three years。
+I have worked for over three years.
 
 2017/12-2019/4, eleme.
 
