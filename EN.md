@@ -2,7 +2,7 @@
 
 phone: 
 
-education：Hunan University of Science and Technology, Computer Science Information Scecurity, 2018-6 graduated
+education：Hunan University of Science and Technology, Computer Science Information Security, 2018-6 graduated
 
 wechat: SPxiaomin-boy
 
